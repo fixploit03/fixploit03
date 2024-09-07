@@ -5,7 +5,6 @@ Selamat datang di profil GitHub saya! Saya adalah penggemar Python 3 dan Linux. 
 - [ZipCrack-NG](https://github.com/fixploit03/ZipCrack-NG) - Program python 3 sederhana yang dirancang untuk melakukan cracking terhadap kata sandi file ZIP.
   
 ## Kontak
-- [LinkedIn](profil-linkedin-anda) - Hubungi saya di LinkedIn
-- [Twitter](profil-twitter-anda) - Ikuti saya di Twitter
+- [E-mail](fixploit03@gmail.com) - Hubungi saya melalui E-mail
 
 Silakan jelajahi repositori saya dan jangan ragu untuk menghubungi saya jika Anda memiliki pertanyaan atau membutuhkan bantuan!
