@@ -9,8 +9,8 @@
   <b>NPC</b>
 </div>
 
-## Kepo? kesini aja:
+##
 
-[![TikTok](https://img.shields.io/badge/TikTok-Ane-brightgreen?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@rofi_doang)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fixploit03&show_icons=true&theme=neon)
 
-[![YouTube](https://img.shields.io/badge/YouTube-Ane-red?style=for-the-badge&logo=youtube)](https://youtube.com/@bgropay777?si=IB4jO5m-D6uhP0Ik)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fixploit03&layout=compact&theme=neon)
