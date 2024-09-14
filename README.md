@@ -12,3 +12,5 @@
 ## Kepo? kesini aja:
 
 [![TikTok](https://img.shields.io/badge/TikTok-Ane-brightgreen?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@rofi_doang)
+
+[![YouTube](https://img.shields.io/badge/YouTube-Ane-red?style=for-the-badge&logo=youtube)](https://youtube.com/@bgropay777?si=IB4jO5m-D6uhP0Ik)
