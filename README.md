@@ -11,4 +11,4 @@
 
 ## Kepo? kesini aja:
 
-![TikTok](https://img.shields.io/badge/TikTok-Ane-brightgreen?style=for-the-badge&logo=tiktok&link=https://www.tiktok.com/@rofi_doang?)
+![TikTok](https://img.shields.io/badge/TikTok-Ane-brightgreen?style=for-the-badge&logo=tiktok&link=https://www.tiktok.com/@rofi_doang)
